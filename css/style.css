@@ -699,3 +699,23 @@ h6,
     color: #B0B9AE;
     border-top: 1px solid rgba(255, 255, 255, .1);
 }
+
+#btn-faq {
+    display: block;
+    margin: 0 auto;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+.btn-qa a{
+    color: #FFFFFF !important;
+}
+
+#btn-faq:hover {
+    background-color: #45a049;
+}

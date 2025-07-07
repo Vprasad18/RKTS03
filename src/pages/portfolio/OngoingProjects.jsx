@@ -78,7 +78,7 @@ export default function OngoingProjects() {
     { icon: TrendingUp, number: "4", label: "Active Projects", color: "text-blue-600" },
     // { icon: DollarSign, number: "₹8.45Cr", label: "Total Value", color: "text-green-600" },
     { icon: Users, number: "45+", label: "Team Members", color: "text-purple-600" },
-    { icon: Clock, number: "21%", label: "Avg Progress", color: "text-orange-600" },
+    { icon: Clock, number: "65%", label: "Avg Progress", color: "text-orange-600" },
   ]
 
   const getStatusColor = (status) => {

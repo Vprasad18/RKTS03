@@ -14,12 +14,57 @@ export default function OngoingProjects() {
   const ongoingCompanies = [
     {
       id: 1,
-      name: "",
+      name: "IIT KANPUR",
       image: "",
-      location: "",
-      year: "",
+      location: "KANPUR",
+      year: "2025",
       value: "",
-      status: "",
+      status: "60%",
+      progress: "",
+      description:
+        "",
+      projects: [
+      ],
+      additionalInfo: [],
+    },
+     {
+      id: 2,
+      name: "IIT PATNA",
+      image: "",
+      location: "PATNA",
+      year: "2025",
+      value: "",
+      status: "80%",
+      progress: "",
+      description:
+        "",
+      projects: [
+      ],
+      additionalInfo: [],
+    },
+     {
+      id: 3,
+      name: "DUMKA MEDICAL COLLEGE AND HOSPITAL",
+      image: "",
+      location: "JHARKHAND",
+      year: "2025",
+      value: "",
+      status: "85%",
+      progress: "",
+      description:
+        "",
+      projects: [
+      ],
+      additionalInfo: [],
+    },
+     {
+      id: 4,
+      name: "Cognizant PVT LTD",
+      image: "",
+      location: "KOLKATA(WEST BENGAL)",
+      year: "2025",
+      value: "",
+      status: "90%",
       progress: "",
       description:
         "",

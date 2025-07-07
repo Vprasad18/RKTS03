@@ -13,7 +13,7 @@ export default function Contact() {
   ]
 
   const handleCallClick = () => {
-    window.location.href = "tel:+919874020650"
+    window.location.href = "tel:+918336881624"
   }
 
   const handleEmailClick = () => {
@@ -67,7 +67,7 @@ export default function Contact() {
                 </h3>
                 <div className="space-y-3 mb-8">
                   <p className="text-gray-700 text-lg font-semibold hover:text-red-500 transition-colors duration-300">
-                    +91 9874020650
+                    +91 8336881624
                   </p>
                   <p className="text-gray-600 hover:text-red-500 transition-colors duration-300">+012 345 67890</p>
                 </div>
@@ -124,7 +124,7 @@ export default function Contact() {
                   </p>
                   <p className="text-gray-600 hover:text-green-500 transition-colors duration-300">711204</p>
                   <p className="text-gray-600 font-medium hover:text-green-500 transition-colors duration-300">
-                    +91 9874020650
+                    +91 8336881624
                   </p>
                 </div>
                 <Button
@@ -175,7 +175,7 @@ export default function Contact() {
                     <h3 className="text-xl font-semibold text-red-800">Emergency Support</h3>
                   </div>
                   <p className="text-red-700">
-                    For urgent security matters, call us directly at <strong>+91 9874020650</strong>. We provide 24/7
+                    For urgent security matters, call us directly at <strong>+91 8336881624</strong>. We provide 24/7
                     emergency support for critical situations.
                   </p>
                 </CardContent>
@@ -269,7 +269,7 @@ export default function Contact() {
                 <Phone className="w-8 h-8 text-red-500 mx-auto mb-4 group-hover:rotate-12 transition-transform duration-300" />
                 <h3 className="font-semibold text-gray-900 mb-2">Direct Contact</h3>
                 <p className="text-gray-600 text-sm">
-                  +91 9874020650
+                  +91 8336881624
                   <br />
                   Available 24/7
                 </p>

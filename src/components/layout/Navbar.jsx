@@ -61,7 +61,7 @@ export default function Navbar() {
             {/* Phone Number */}
             <div className="flex items-center space-x-1 sm:space-x-2 bg-red-600 hover:bg-red-600 px-2 sm:px-4 py-1 sm:py-2 rounded-full transition-all duration-300 transform hover:scale-105">
               <Phone className="w-3 h-3 sm:w-4 sm:h-4" />
-              <span className="font-semibold font-tinos text-xs sm:text-sm hidden sm:inline">+91 9874020650</span>
+              <span className="font-semibold font-tinos text-xs sm:text-sm hidden sm:inline">+91 8336881624</span>
               <span className="font-semibold font-serif text-xs sm:hidden">Call</span>
             </div>
           </div>

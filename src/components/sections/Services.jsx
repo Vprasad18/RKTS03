@@ -50,10 +50,9 @@ export default function Services() {
       icon: Flame,
       title: "Fire Suppression Systems",
       description:
-        "Specialized gas-based, water mist, and foam-based fire suppression systems for high-risk environments.",
+        "Specialized gas-based and foam-based fire suppression systems for high-risk environments.",
       features: [
         "FM-200, NOVEC 1230, CO2",
-        "Water Mist Systems",
         "Foam-Based Suppression",
         "Automatic Discharge Mechanisms",
         "Testing & Commissioning",
